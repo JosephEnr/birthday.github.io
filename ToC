@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>body{background-color:#FDFD96;}
+#title{text-align:center;}
+#ToC{
+  float:middle;
+  margin: auto;
+  width: 27%;
+  padding: 10px;
+  font-size:150%;
+}
+#left{float:left;}
+#right{float:right;}</style>
+    <title>ToC</title><link rel="ToC" href=></head>
+  <body>
+    <h1 id = "title"><u>Where do you wish to go?</u></h1>
+    <div id="left"><img src="https://web.archive.org/web/20091026194257/http://geocities.com/curbus/IMAGES/dinosaur.gif"></div>
+    <div id="right"><img src="https://web.archive.org/web/20091025222646/http://geocities.com/WestHollywood/Heights/9304/dinosaurrunning.gif"></div> 
+    <div>
+      <ul id="ToC"><li><a>Love letter</a></li><li><a>Tunes</a></li><li><a>Memories</a></li><li><a>Friends</a></li></ul>
+    </div>
+  </body>
+</html>
